@@ -4,7 +4,7 @@ Modern Vite + React implementation of the Bluestone Bold digital gold experience
 
 ## Live Demo
 
-- Hosted build: **https://bold-rewar.vercel.app**
+- Hosted build: **https://bold-pi.vercel.app**
 
 ## Tech Stack
 
